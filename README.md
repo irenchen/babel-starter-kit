@@ -1,4 +1,4 @@
-# babel-tutorial-kit
+# babel-starter-kit
 
 ## Getting started
 
